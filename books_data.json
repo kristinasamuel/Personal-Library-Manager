@@ -1,0 +1,18 @@
+[
+    {
+        "title": "fairy tale story",
+        "author": "Merry",
+        "year": "2022",
+        "genre": "Children's Fiction,",
+        "read": false,
+        "gebre": "Children's Fiction,"
+    },
+    {
+        "title": "A Mocking Bird",
+        "author": "Harper lee",
+        "year": "1980",
+        "genre": "fiction",
+        "read": false,
+        "gebre": "fiction"
+    }
+]
